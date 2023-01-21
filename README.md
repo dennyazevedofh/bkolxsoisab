@@ -2,7 +2,7 @@
 
 ### Desenvolvido em Node.js (versão 16.x)
 
-Projeto criado durante estudo de Node.js, em curso da B7Web.
+Projeto criado com base no estudo de Node.js, em curso da B7Web.
 
 O projeto consiste de um Clone estilizado do BackEnd do site de vendas OLX.
 
